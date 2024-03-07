@@ -6,7 +6,7 @@
 
 ![:name](https://count.getloli.com/get/@ianwang0225?theme=gelbooru)
 
-## About ME _(:3 」∠ ) 
+## About Me _(:3 」∠ ) 
 <be>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ianwang0225)
