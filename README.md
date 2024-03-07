@@ -7,8 +7,9 @@
 ![:name](https://count.getloli.com/get/@ianwang0225?theme=gelbooru)
 
 ## About ME _(:3 」∠ ) 
-<br>
-[![Gallen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<be>
+
+[![ianwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianwang0225&layout=compact&theme=gruvbox)
 
 <big><pre>
