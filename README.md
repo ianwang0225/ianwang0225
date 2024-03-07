@@ -10,7 +10,7 @@
 <be>
 
 [![ianwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianwang0225&layout=compact&theme=gruvbox&card_width=3000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianwang0225&layout=compact&theme=gruvbox&card_high=3000)
 
 <big><pre>
 &#62; ./Email
