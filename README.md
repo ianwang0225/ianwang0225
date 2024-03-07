@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You_are_BABABOI!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=616262&random=false&width=435&lines=My+personal+bio;ianwang0225;%EF%BC%A3heck+out+my+%EF%BC%B7ebsite+(*%C2%B4%E2%88%80%60)~%E2%99%A5)](https://git.io/typing-svg)
 </br>
 
 <p align="left"> <img src="https://i.imgur.com/HtBRfnF.jpeg" alt="Jeff" /> </p>
@@ -9,6 +9,7 @@
 ## About ME _(:3 」∠ ) 
 <be>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ianwang0225)
 [![ianwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianwang0225&layout=compact&theme=gruvbox)
 
