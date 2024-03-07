@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://i.imgur.com/rephNDd.jpg" alt="Jeff" /> </p>
 </br>
 
-![:name](./pic/pic1_50.png =100x100)(https://count.getloli.com/get/@ianwang0225?theme=gelbooru)
+![:name](https://count.getloli.com/get/@ianwang0225?theme=gelbooru)
 
-## About ME 💬 
+## About ME _(:3 」∠ ) 
+<br>
+<a href="https://jefftrojan.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
+
 <big><pre>
 &#62; ./Email
 [ianwang0225@gmail.com](ianwang0225@gmail.com)
@@ -15,9 +19,6 @@
 &#62; ./visit my website
 [HIRNGESPINST](https://ianwang0225.github.io/)
 </pre></big>
-<br>
-<a href="https://jefftrojan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
 
 
 
