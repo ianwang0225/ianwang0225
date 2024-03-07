@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You_are_a_BABABOI!!!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You_are_BABABOI!!!)](https://git.io/typing-svg)
 </br>
 
 <p align="left"> <img src="https://i.imgur.com/rephNDd.jpg" alt="Jeff" /> </p>
