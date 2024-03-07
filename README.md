@@ -1,6 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
 </br>
-<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='620' width='580'>
 
 <p align="left"> <img src="https://i.imgur.com/rephNDd.jpg" alt="Jeff" /> </p>
 
