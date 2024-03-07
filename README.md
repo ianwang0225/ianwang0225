@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You_are_BABABOI!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You_are_BABABOI!!!)](https://git.io/typing-svg)
 </br>
 
 <p align="left"> <img src="https://i.imgur.com/rephNDd.jpg" alt="Jeff" /> </p>
@@ -8,8 +8,8 @@
 
 ## About ME _(:3 」∠ ) 
 <br>
-<a href="https://jefftrojan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
+[![Gallen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianwang0225&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianwang0225&layout=compact&theme=gruvbox)
 
 <big><pre>
 &#62; ./Email
