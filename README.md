@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You_are_BABABOI!!!)](https://git.io/typing-svg)
 </br>
 
-<p align="left"> <img src="[https://i.imgur.com/rephNDd.jpg](https://i.imgur.com/HtBRfnF.jpeg)" alt="Jeff" /> </p>
+<p align="left"> <img src="https://i.imgur.com/HtBRfnF.jpeg" alt="Jeff" /> </p>
 </br>
 
 ![:name](https://count.getloli.com/get/@ianwang0225?theme=gelbooru)
