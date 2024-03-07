@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=4090&pause=800&color=FD7D36&random=false&width=700&height=60&lines=My+personal+bio;ianwang0225;%EF%BC%A3heck+out+my+%EF%BC%B7ebsite+(*%C2%B4%E2%88%80%60)~%E2%99%A5)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=4090&pause=800&color=FD7D36&random=false&width=700&height=60&lines=Hey%2C+what's+up!;ianwang0225;%EF%BC%A3heck+out+my+%EF%BC%B7ebsite+(*%C2%B4%E2%88%80%60)~%E2%99%A5)](https://git.io/typing-svg)
 </br>
 
 <p align="left"> <img src="https://i.imgur.com/HtBRfnF.jpeg" alt="Jeff" /> </p>
